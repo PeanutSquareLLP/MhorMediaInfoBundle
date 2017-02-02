@@ -13,6 +13,10 @@
         "symfony/framework-bundle": "^2.3 || ^3.0",
         "peanutsquare/php-mediainfo" : "^1.0 || ^2.0"
     },
+    "repositories" : [{
+        "type" : "vcs",
+        "url" : "https://github.com/PeanutSquareLLP/MhorMediaInfoBundle.git"
+    }],
     "require-dev": {
         "phpunit/phpunit": "~4.8|~5.0"
     },
