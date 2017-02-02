@@ -1,5 +1,5 @@
 {
-    "name": "mhor/mediainfo-bundle",
+    "name": "peanutsquare/mediainfo-bundle",
     "type": "symfony-bundle",
     "description": "Bundle for using php-mediainfo as service",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "^2.3 || ^3.0",
-        "mhor/php-mediainfo" : "^1.0 || ^2.0"
+        "peanutsquare/php-mediainfo" : "^1.0 || ^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8|~5.0"
