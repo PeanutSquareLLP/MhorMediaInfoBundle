@@ -11,7 +11,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "^2.3 || ^3.0",
-        "peanutsquare/php-mediainfo" : "^1.0 || ^2.0"
+        "peanutsquare/php-mediainfo" : "dev-master"
     },
     "repositories" : [{
         "type" : "vcs",
